@@ -1,4 +1,4 @@
-apiVersion: application.giantswarm.io/v2alpha1
+apiVersion: application.giantswarm.io/v1alpha1
 kind: Catalog
 metadata:
   labels:
